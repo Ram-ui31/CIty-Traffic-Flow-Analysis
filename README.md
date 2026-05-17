@@ -24,7 +24,7 @@ Below is the parity plot showing Actual vs. Predicted Traffic Volume:
 
 ## Project Requirements
 The project follows the specific guidelines outlined in the brief:
-![Project Brief](Screenshot%202026-05-16%20at%2012.09.44%E2%80%AFAM.jpg)
+![Project Brief](cfa.png)
 
 ## Dataset Sources
 * **US Data:** [Kaggle — Metro Interstate Traffic Volume](https://www.kaggle.com/datasets/anshtanwar/metro-interstate-traffic-volume)
